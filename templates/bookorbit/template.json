@@ -1,0 +1,7 @@
+{
+  "name": "BookOrbit",
+  "description": "A self-hosted library and reading platform for ebooks, PDFs, audiobooks, and comics.",
+  "version": "2.10.0",
+  "author": "bookorbit",
+  "tags": ["reading", "ebooks", "audiobooks"]
+}
